@@ -8,6 +8,6 @@ TITLE:Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:hello@lovecubbi.com
 TEL;type=WORK;type=VOICE:+65 6493 2210
 item1.X-ABADR:sg
-item2.URL;type=pref:lovecubbi.com
+item2.URL;type=pref:www.lovecubbi.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
